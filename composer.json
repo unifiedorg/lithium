@@ -1,0 +1,18 @@
+{
+    "name": "znci/lithium",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Znci\\Lithium\\": "src/",
+            "App\\Controllers\\": "app/controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Unium, znci",
+            "email": "unium@znci.dev"
+        }
+    ],
+    "require": {}
+}
